@@ -2,10 +2,12 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=If+you+are+interested+in+my+works;Follow+me)](https://git.io/typing-svg)
-
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.icons8.com/?size=512&id=63306&format=png)" width="100"/>
+<a href="https://www.instagram.com/seigtm" rel="nofollow"><img src="" alt="Telegramm" data-canonical-src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&amp;logo=instagram&amp;logoColor=B4068E" style="max-width: 100%;"></a>
+<div align="center">
+  <img src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="100"/>
 </div>
+
+
 <!--
 **VAsiaa/VAsiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
