@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=test1;test2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=If+you+are+interested+in+my+works;Follow+me)](https://git.io/typing-svg)
 <!--
 **VAsiaa/VAsiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
