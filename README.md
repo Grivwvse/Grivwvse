@@ -1,3 +1,6 @@
+
+<img src="https://github.com/Grivwvse/Grivwvse/blob/main/Right-Bunner.png" width="25%" align="right" />
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=1000&color=98DBC6&center=true&width=435&height=60&lines=Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
 </p>
@@ -65,22 +68,7 @@ Diploma in Information Systems Specialist
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
+  <img src="https://github.com/Grivwvse/Grivwvse/blob/main/Cute_Cat.gif" height="150" />
 </div>
 
-
-
-<!--
-**VAsiaa/VAsiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Right bunner taken from pxfuel (https://www.pxfuel.com/en/desktop-wallpaper-fpptg) -->
