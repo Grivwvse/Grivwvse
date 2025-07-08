@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=1000&color=98DBC6&center=true&width=435&height=60&lines=Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
 </p>
@@ -12,9 +9,9 @@
     🧠 Trying to make my best!
 </pre>
 
-<br><br>
+<img src="https://github.com/Grivwvse/Grivwvse/blob/main/Right-Bunner.png" width="22%" align="right" />
 
-<img src="https://github.com/Grivwvse/Grivwvse/blob/main/Right-Bunner.png" width="25%" align="right" />
+<br>
 
 <p align="center">
   <img src="https://github.com/Grivwvse/Grivwvse/blob/main/Technologies.svg" >
@@ -43,7 +40,7 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fortran.png" alt="Fortran" title="Fortran"/>
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github.com/Grivwvse/Grivwvse/blob/main/Education.svg" >
@@ -54,6 +51,8 @@ Bachelor's Degree in Software Engineering
 
 * 🏤 St. Petersburg College of Information Technology 
 Diploma in Information Systems Specialist
+
+<br>
 
 <p align="center">
   <img src="https://github.com/Grivwvse/Grivwvse/blob/main/Links.svg" >
