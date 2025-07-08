@@ -4,14 +4,52 @@
 <p align="center">
   <img src="https://github.com/Grivwvse/Grivwvse/blob/main/SecGreetingTxt.svg" >
 </p>
+
+<pre align="center">
+    🧠 Trying to make my best!
+</pre>
+
+<br><br>
+
 <p align="center">
   <img src="https://github.com/Grivwvse/Grivwvse/blob/main/Technologies.svg" >
 </p>
-Coming soon
+
+* 🚀 Main languages: С#, C++ (14)
+
+* ✨ Also familiar with Python, Java, Fortan
+
+* 🔶 Technologies: WPF, XAML, Entity Framework, Linq, xUint (Tests), Asp.Net Core, STL, MFC, Stream API, Django, Web Api
+
+* 🟪 Some additional: default frontend stack like Html, Bootstrap 5 and basics of JS, CSS
+  
+<br>
+
+<div align="center">
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fortran.png" alt="Fortran" title="Fortran"/>
+</div>
+
+<br><br>
+
 <p align="center">
   <img src="https://github.com/Grivwvse/Grivwvse/blob/main/Education.svg" >
 </p>
-Coming soon
+
+* 🏫 Peter the Great St. Petersburg Polytechnic University
+Bachelor's Degree in Software Engineering
+
+* 🏤 St. Petersburg College of Information Technology 
+Diploma in Information Systems Specialist
+
 <p align="center">
   <img src="https://github.com/Grivwvse/Grivwvse/blob/main/Links.svg" >
 </p>
