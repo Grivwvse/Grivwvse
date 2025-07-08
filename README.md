@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Grivwvse/Grivwvse/blob/main/Right-Bunner.png" width="25%" align="right" />
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=1000&color=98DBC6&center=true&width=435&height=60&lines=Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
@@ -13,6 +13,8 @@
 </pre>
 
 <br><br>
+
+<img src="https://github.com/Grivwvse/Grivwvse/blob/main/Right-Bunner.png" width="25%" align="right" />
 
 <p align="center">
   <img src="https://github.com/Grivwvse/Grivwvse/blob/main/Technologies.svg" >
